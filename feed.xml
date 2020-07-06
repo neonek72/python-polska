@@ -3,7 +3,7 @@
     <title>Python Polska Discord</title>
     <link href="http://www.python-polska.tk/feed.xml" rel="self" />
     <link href="http://www.python-polska.tk" />
-    <updated>2020-07-06T14:00:00+02:00</updated>
+    <updated>2020-07-06T14:06:39+02:00</updated>
     <author>
         <name>Xeyo</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://www.python-polska.tk/wyzwanie-tygodnia.html"/>
         <id>http://www.python-polska.tk/wyzwanie-tygodnia.html</id>
 
-        <updated>2020-07-06T13:57:49+02:00</updated>
+        <updated>2020-07-06T14:06:34+02:00</updated>
             <summary>
                 <![CDATA[
                     Zadanie tygodnia numer 1: Napisz funkcję o nazwie centrum Funkcja ma przyjmować&hellip;
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Zadanie tygodnia numer 1:</strong><br><br>Napisz funkcję o nazwie <code>centrum</code><br>Funkcja ma przyjmować string jako swój parametr.<br>Funkcja powinna zwrócić środkową literę.<br>Jeśli nie ma środkowej litery, funkcja powinna zwrócić pusty string.<br><br><strong>Przykład:</strong><br><code><span class="hiddenGrammarError">centrum(</span><span class="hiddenGrammarError">"</span>Ewa<span class="hiddenGrammarError">"</span>)</code> zwraca <code><span class="hiddenGrammarError">"</span>w"</code>.<br><code><span class="hiddenGrammarError">centrum(</span><span class="hiddenGrammarError">"</span>Adam<span class="hiddenGrammarError">"</span>)</code> zwraca <code><span class="hiddenGrammarError">"</span>"</code>.<br><br>Rozwiązanie <span class="hiddenGrammarError">proszę</span> wysyłać jako link do <span class="hiddenSpellError">pastebin</span>/<span class="hiddenSpellError">repl.it</span>/... na priva do <span class="hiddenSpellError">@Xeyo</span><br><br>Za prawidłowe rozwiązanie dostaniesz <span class="hiddenSpellError">punkta</span> i znajdziesz się w tabeli najlepszych.</p>
+                <p><strong>Zadanie tygodnia numer 1:</strong><br><br>Napisz funkcję o nazwie <code>centrum</code><br>Funkcja ma przyjmować string jako swój parametr.<br>Funkcja powinna zwrócić środkową literę.<br>Jeśli nie ma środkowej litery, funkcja powinna zwrócić pusty string.<br><br><strong>Przykład:</strong><br><code><span class="hiddenGrammarError">centrum(</span><span class="hiddenGrammarError">"</span>Ewa<span class="hiddenGrammarError">"</span>)</code> zwraca <code><span class="hiddenGrammarError">"</span>w"</code>.<br><code><span class="hiddenGrammarError">centrum(</span><span class="hiddenGrammarError">"</span>Adam<span class="hiddenGrammarError">"</span>)</code> zwraca <code><span class="hiddenGrammarError">"</span>"</code>.<br><br>Rozwiązanie <span class="hiddenGrammarError">proszę</span> wysyłać najpóźniej do 12.07.2020 jako link do <span class="hiddenSpellError">pastebin</span>/<span class="hiddenSpellError">repl.it</span>/... na priva do <span class="hiddenSpellError">@Xeyo</span><br><br>Za prawidłowe rozwiązanie dostaniesz <span class="hiddenSpellError">punkta</span> i znajdziesz się w tabeli najlepszych.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
