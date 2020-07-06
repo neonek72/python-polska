@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Python Polska Github",
+    "description": "",
+    "home_page_url": "http://www.python-polska.tk",
+    "feed_url": "http://www.python-polska.tk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Xeyo"
+    },
+    "items": [
+        {
+            "id": "http://www.python-polska.tk/python-polska.html",
+            "url": "http://www.python-polska.tk/python-polska.html",
+            "title": "Baza linków",
+            "summary": "Python Polska na Discord: Książki: YouTube: Tutoriale online: Zbiór ćwiczeń online: Blogi:&hellip;",
+            "content_html": "<p class=\"align-left\"><strong>Python Polska na Discord:</strong></p>\n<p><a title=\"Python Polska Discord\" href=\"https://discord.gg/pZvezJ\" target=\"_blank\" rel=\"noopener\"><img class=\"post__image post__image--center\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"http://www.python-polska.tk/media/posts/1/discord-banner-PYTHON.png\" alt=\"\" width=\"468\" height=\"60\"></a></p>\n<p><strong>Książki:</strong></p>\n<ul>\n<li><a href=\"https://www.swiatksiazki.pl/python-3-proste-wprowadzenie-do-fascynujacego-swiata-programowania-6383741-ksiazka.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Python 3. Proste wprowadzenie do fascynującego świata programowania</a></li>\n<li><a href=\"https://www.swiatksiazki.pl/python-instrukcje-dla-programisty-wydanie-ii-6657229-ksiazka.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Python. Instrukcje dla programisty.</a></li>\n</ul>\n<p><strong>YouTube:</strong></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=5z1TIa46oL4&amp;list=PLNf24a0-oCQFYqa5etibPu5z3lXpxKYQ8\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Python od podstaw</a></li>\n<li><a href=\"https://www.youtube.com/user/schafer5/playlists\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] Corey Schafer</a></li>\n<li><a href=\"https://www.youtube.com/user/sentdex/playlists\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] sentdex</a></li>\n</ul>\n<p><strong>Tutoriale online:</strong></p>\n<ul>\n<li><a href=\"https://automatetheboringstuff.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] Automate the Boring Stuff with Python</a></li>\n<li><a href=\"https://developers.google.com/edu/python/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] Google for Education &gt; Python</a></li>\n</ul>\n<p><strong>Zbiór ćwiczeń online:</strong></p>\n<ul>\n<li><a href=\"https://www.w3resource.com/python-exercises/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] w3resource</a></li>\n<li><a href=\"https://www.practicepython.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] Practice Python</a></li>\n<li><a href=\"https://py.checkio.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[EN] Checkio.org</a></li>\n</ul>\n<p><strong>Blogi:</strong></p>\n<ul>\n<li><a href=\"https://pl.python.org/planeta/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Planeta polskich programistów Python</a></li>\n<li><a href=\"https://akademiapython.pl/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Akademia Python</a></li>\n<li><a href=\"https://www.wakeupandcode.pl/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Wake up and code</a></li>\n<li><a href=\"https://www.flynerd.pl/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Flynerd</a></li>\n<li><a href=\"https://bedeprogramistka.pl/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] BedeProgramistka.pl</a></li>\n<li><a href=\"https://mmazurek.dev/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">[PL] Mateusz Mazurek</a></li>\n</ul>\n<p>Czy znasz jakieś inne dobre linki? Napisz do nas na <strong><a href=\"https://discord.gg/kD34TK\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></strong>.</p>",
+            "author": {
+                "name": "Xeyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-24T23:07:06+02:00",
+            "date_modified": "2020-05-29T14:56:44+02:00"
+        }
+    ]
+}
