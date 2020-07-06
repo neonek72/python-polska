@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Python Polska Github",
+    "title": "Python Polska Discord",
     "description": "",
     "home_page_url": "http://www.python-polska.tk",
     "feed_url": "http://www.python-polska.tk/feed.json",
@@ -9,6 +9,20 @@
         "name": "Xeyo"
     },
     "items": [
+        {
+            "id": "http://www.python-polska.tk/wyzwanie-tygodnia.html",
+            "url": "http://www.python-polska.tk/wyzwanie-tygodnia.html",
+            "title": "Wyzwanie tygodnia",
+            "summary": "Zadanie tygodnia numer 1: Napisz funkcję o nazwie centrum Funkcja ma przyjmować&hellip;",
+            "content_html": "<p><strong>Zadanie tygodnia numer 1:</strong><br><br>Napisz funkcję o nazwie <code>centrum</code><br>Funkcja ma przyjmować string jako swój parametr.<br>Funkcja powinna zwrócić środkową literę.<br>Jeśli nie ma środkowej litery, funkcja powinna zwrócić pusty string.<br><br><strong>Przykład:</strong><br><code><span class=\"hiddenGrammarError\">centrum(</span><span class=\"hiddenGrammarError\">\"</span>Ewa<span class=\"hiddenGrammarError\">\"</span>)</code> zwraca <code><span class=\"hiddenGrammarError\">\"</span>w\"</code>.<br><code><span class=\"hiddenGrammarError\">centrum(</span><span class=\"hiddenGrammarError\">\"</span>Adam<span class=\"hiddenGrammarError\">\"</span>)</code> zwraca <code><span class=\"hiddenGrammarError\">\"</span>\"</code>.<br><br>Rozwiązanie <span class=\"hiddenGrammarError\">proszę</span> wysyłać jako link do <span class=\"hiddenSpellError\">pastebin</span>/<span class=\"hiddenSpellError\">repl.it</span>/... na priva do <span class=\"hiddenSpellError\">@Xeyo</span><br><br>Za prawidłowe rozwiązanie dostaniesz <span class=\"hiddenSpellError\">punkta</span> i znajdziesz się w tabeli najlepszych.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><strong>Imie:</strong></td>\n<td style=\"width: 33.3333%;\"><strong>Punkty:</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">jeszcze brak</td>\n<td style=\"width: 33.3333%;\">jeszcze brak</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Xeyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-06T13:29:08+02:00",
+            "date_modified": "2020-07-06T13:57:49+02:00"
+        },
         {
             "id": "http://www.python-polska.tk/python-polska.html",
             "url": "http://www.python-polska.tk/python-polska.html",
